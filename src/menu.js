@@ -46,4 +46,4 @@ function createMenu() {
     content.appendChild(fourthInfo);
 }
 
-export default createMenu();
+export default createMenu;
