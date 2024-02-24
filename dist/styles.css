@@ -82,3 +82,22 @@ button {
     font-size: 24px;
     font-weight: bold;
 }
+
+.about-intro {
+    text-align: center;
+    padding: 0px 300px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.about-image {
+    display: block;
+    margin: auto;
+    width: 600px;
+}
+
+.contact-info {
+    text-align: center;
+    font-size: 20px;
+    padding: 0 300px;
+}
